@@ -1,5 +1,6 @@
-<?php
+git checkout<?php
    $theme = get_stylesheet_directory_uri();
+   echo "git changes test varun barnch"
 ?> 
 
 <!doctype html>
